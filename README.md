@@ -50,7 +50,7 @@ Expect to configure server constants under `PyanoO_Server_Core/constants.py` and
 
 ## License
 
-No license file was added when I was 15. If you want to reuse anything, ask—or assume **all rights reserved** until I add an explicit license.
+No license file was added when I was 15. If you want to reuse anything, don't, it's not worth it lol.
 
 ---
 
